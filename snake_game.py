@@ -54,7 +54,7 @@ while True:
     pg.draw.rect(screen, 'red', food)
 
     # Desenhar cobra
-    [pg.draw.rect(screen, 'green', segment) for segment in segments]
+    [pg.draw.rect(screen, 'white', segment) for segment in segments]
     
     # Mover cobra
     time_now = pg.time.get_ticks()
