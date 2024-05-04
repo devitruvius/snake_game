@@ -82,4 +82,15 @@ This Python code implements a classic Snake Game using the Pygame library. Playe
 * You can adjust the <code>WINDOW</code> and <code>TILE_SIZE</code> variables to customize the game's appearance.
 * Experiment with the <code>time_step</code> variable to change the speed of the game.
 * Consider adding features like score tracking and increasing difficulty levels.
-* Feel free to modify the code to create your own variations of the Snake Game!
+
+## Contributing
+
+Please feel free to fork the repository and submit pull requests.
+
+## License
+
+This project is licensed under the MIT License.
+
+## Contact
+
+If you have any questions or suggestions, please feel free to contact me.
